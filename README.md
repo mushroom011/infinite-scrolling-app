@@ -1,3 +1,5 @@
+[Live demo](https://zingy-banoffee-dafceb.netlify.app/)
+
 # Infinite-scrolling-app
 
 Бесконечный скроллинг + виртуализация
